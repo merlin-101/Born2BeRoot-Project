@@ -29,7 +29,7 @@ Some usefull links:
 - https://linuxhint.com/secure_password_policies_ubuntu/
 - https://www.liquidweb.com/kb/how-to-set-up-and-manage-sudo-permissions/
 
-This is the subject: [Born2BeRoot]()
+This is the subject: [Born2BeRoot](https://github.com/merlin-101/Born2BeRoot-Project/blob/main/Born2BeRoot_en.subject.pdf)
 
 The final evaluation:
 
