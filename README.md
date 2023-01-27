@@ -7,6 +7,8 @@ Then, at the end of this project, I will be able to set up my own operating syst
 
 As for the Bonus, we are supposed to create a few more partitions similar to the example, and create a functional Wordpress website with the services lighttpd, MariaDB, and PHP.
 
+My extra service was FTP: [here](https://www.hostinger.com/tutorials/what-is-ftp) is a very well succinct explanation.
+
 My Bible for this project made by another student: [Study theory](https://miro.com/app/board/uXjVPEVHTXk=/)
 
 Some usefull links:
